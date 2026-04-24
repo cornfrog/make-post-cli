@@ -1,6 +1,6 @@
 {
   "name": "make-post-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple npm cli tool that creates md files I use for blog posts",
   "main": "make_post.js",
   "bin": {
