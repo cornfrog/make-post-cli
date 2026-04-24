@@ -1,0 +1,16 @@
+{
+  "name": "make-post-cli",
+  "version": "1.0.2",
+  "description": "simple npm cli tool that creates md files I use for blog posts",
+  "main": "make_post.js",
+  "bin": {
+    "mp": "make_post.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cornfrog",
+  "license": "ISC",
+  "type": "module"
+}
