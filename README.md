@@ -7,7 +7,7 @@ A simple NPM CLI tool to quickly generate Markdown files for blog posts with a p
 You can install this tool globally using npm:
 
 ```bash
-npm install -g .
+npm i make-post-cli
 ```
 
 *(Note: Use `npm install -g make-post-cli` once published to the registry)*
