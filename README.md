@@ -10,7 +10,6 @@ You can install this tool globally using npm:
 npm install -g make-post-cli
 ```
 
-*(Note: Use `npm install -g make-post-cli` once published to the registry)*
 
 ## Usage
 
